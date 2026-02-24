@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://fgxmart.com', 'https://app.fgxmart.com', 'http://localhost:3000', 'http://localhost:3001'],
+    'allowed_origins' => ['https://fgxmart.com', 'https://api.fgxmart.com', 'https://app.fgxmart.com', 'http://localhost:3000', 'http://localhost:3001'],
 
     'allowed_origins_patterns' => [],
 
